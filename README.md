@@ -1,4 +1,4 @@
-# Subtrate RPC Scan
+# Substrate RPC Scan
 
 Simple command line application to scan the RPC methods of a Substrate node.
 
